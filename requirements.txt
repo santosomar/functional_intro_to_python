@@ -13,3 +13,4 @@ pyyaml
 numpy
 bokeh
 jupyterlab
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
